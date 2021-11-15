@@ -1,3 +1,3 @@
 # curso-cypress-intermediario
 
-[Curso intermediário de automação de testes com Cypress](http://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario) da Escola Talking About Testing.
+Practice and evolving in test automation with Javascript and Cypress!
